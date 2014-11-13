@@ -1,0 +1,10 @@
+[
+	// Improve this. This will only work when the cursos is on the function.
+	{
+		"button": "button3",
+		"count": 1,
+		"modifiers": [],
+		"press_command": "goto_definition",
+		"command": "goto_definition"
+	}
+]
