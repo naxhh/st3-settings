@@ -1,0 +1,20 @@
+# Ignore all by default.
+*
+
+!.gitignore
+!README.md
+
+# For now don't keep packages under git, only the package control.
+!Installed Packages
+Installed Packages/*
+!Installed Packages/Package Control.sublime-package
+
+# Keep user keymaps/settings/builds
+!Packages
+Packages/*
+
+!Packages/User
+Packages/User/*
+!Packages/User/*.sublime-keymap
+!Packages/User/*.sublime-settings
+!Packages/User/*.sublime-build
