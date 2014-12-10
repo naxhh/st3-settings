@@ -1,17 +1,19 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 10,
 	"ignored_packages":
 	[
+		"Seti_UI",
 		"Markdown",
-		"Vintage",
-		"Seti_UI"
+		"Vintage"
 	],
-	"word_wrap": "false",
-	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true,
-	"default_line_ending": "unix",
+	"paredit_enabled": false,
+	"save_on_focus_lost": false,
 	"show_encoding": true,
-    "show_line_endings": true,
-	"save_on_focus_lost": false, // hmmm
+	"show_line_endings": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
 }

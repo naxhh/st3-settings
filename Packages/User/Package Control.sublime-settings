@@ -2,8 +2,13 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Behat Features",
+		"BracketHighlighter",
 		"DocBlockr",
+		"lispindent",
+		"paredit",
 		"Seti_UI",
+		"SublimeREPL",
 		"Theme - Cobalt2"
 	]
 }
