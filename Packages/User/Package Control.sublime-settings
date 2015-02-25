@@ -2,13 +2,17 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Ansible",
+		"API Blueprint",
 		"Behat Features",
 		"BracketHighlighter",
 		"DocBlockr",
 		"lispindent",
+		"Package Control",
 		"paredit",
 		"Seti_UI",
 		"SublimeREPL",
-		"Theme - Cobalt2"
+		"Theme - Cobalt2",
+		"Vagrant"
 	]
 }
