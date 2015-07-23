@@ -32,7 +32,7 @@ Linux
 OS X
 ----
 
-    cd ~/Library/Application Support/Sublime Text 3
+    cd ~/Library/Application\ Support/Sublime\ Text\ 3
     git init
     git remote add origin https://github.com/naxhh/st3-settings.git
     git fetch
