@@ -2,7 +2,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": false,
-	"font_size": 10,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Seti_UI",
